@@ -1,4 +1,4 @@
-# HritikMaurya
+# Hritik Roushan
 
 Hi, I'm Hritik Roushan
 
