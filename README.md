@@ -4,7 +4,7 @@ Hi, I'm Hritik Roushan
 
 I'm a Computer Science student at Galgotias University (2022–2026) with a passion for building impactful web applications and exploring emerging technologies like AI and automation.
 
-# Tech Stack
+# Tech Stack:-
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
@@ -15,13 +15,13 @@ I'm a Computer Science student at Galgotias University (2022–2026) with a pass
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
-## Stats & Growth
+## Stats & Growth:-
 
 - Solved **200+ DSA problems** across LeetCode & GFG
 - Built **5+ projects using HTML,CSS,JavaScript and React.js**
 - Content creator with **68K+ Instagram followers** on Buddha teachings
 
- ## Currently Learning
+ ## Currently Learning:-
 - Backend Devlopment.
 - REST APIs & backend integration.  
 - UI/UX Design Principles using Figma.
