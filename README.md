@@ -12,13 +12,16 @@ I'm a Computer Science student at Galgotias University (2022–2026) with a pass
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
 ## Stats & Growth:-
 
-- Solved **200+ DSA problems** across LeetCode & GFG
-- Built **5+ projects using HTML,CSS,JavaScript and React.js**
+- Solved **230+ DSA problems** across LeetCode & GFG
+- Built **5+ projects using HTML,CSS,JavaScript,React.js,TypeScript,TailwindCSS,Next.js,PostgreSQL**
 - Content creator with **68K+ Instagram followers** on Buddha teachings
 
  ## Currently Learning:-
