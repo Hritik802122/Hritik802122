@@ -1,4 +1,4 @@
-name: Github Snake Game
+name: Github Snake Game new
 on:
 
   # Schedule the workflow to run daily at midnight UTC
