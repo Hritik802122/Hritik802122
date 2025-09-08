@@ -98,3 +98,5 @@
 
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hritik802122&theme=juicyfresh" alt="Hritik802122" /></a></p>
 
+![snake gif](https://github.com/Hritik802122/Hritik802122/blob/output/github-snake-dark.svg)
+
